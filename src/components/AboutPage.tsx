@@ -48,7 +48,7 @@ const AboutPage = ({ onNavigate }: AboutPageProps) => {
             <Shield className="w-10 h-10 text-primary" />
           </div>
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            Making Document Management Simple & Secure
+            Love C.Mcgregor
           </h2>
           <p className="text-xl text-muted-foreground">
             SafeSpace was created with a simple mission: to provide everyone with a secure, 
