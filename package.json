@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://swayamkambli14.github.io/DT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
